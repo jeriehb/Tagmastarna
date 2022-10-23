@@ -14,5 +14,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nardos22/Tagmastarna.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nardos22/Tagmastarna/issues"
+  },
+  "homepage": "https://github.com/Nardos22/Tagmastarna#readme",
   "description": ""
 }
